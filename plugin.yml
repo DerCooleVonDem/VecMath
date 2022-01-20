@@ -1,0 +1,5 @@
+name: "VecMath"
+author: "DerCooleVonDem"
+main: DerCooleVonDem\VecMath\VecMath
+version: 1.0
+description: "Vector2, Vector3, Vector4, Matrix2, Matrix3, Matrix4, Quaternion, and other math functions made for Minecraft. Also includes a few other useful math functions."
